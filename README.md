@@ -9,5 +9,4 @@
    ``` python keylogger.py ```
  * Libraries  
    You need to have pynput , smtplib and ssl installed.
-
-While python comes with the library smtplib and ssl preinstalled. You can install pynput with : pip install pynput
+   While python comes with the library smtplib and ssl preinstalled. You can install pynput with : pip install pynput
